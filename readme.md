@@ -1,4 +1,4 @@
-# Kubernetes Exercise in KillerKoda Playground / Codepace
+# **Kubernetes Exercise in KillerKoda Playground / Codepace**
 
 In this assignment, you will be creating:
 
@@ -77,7 +77,7 @@ In this assignment, you will be creating:
 
 ## **Evaluation / Submission Criteria:**
 
-Evaluation is based on the files and images you submit and you are required to complete the following Kubernetes exercise in the KillerKoda playground and submit the necessary files(.yml files) and screenshots(commands) as proof of completion.
+Evaluation is based on the files and images you submit and you are required to complete the following Kubernetes exercise in the KillerKoda playground or codespace and submit the necessary files(.yml files) and screenshots(commands) in the **submissions** file as proof of completion.
 
 
 
